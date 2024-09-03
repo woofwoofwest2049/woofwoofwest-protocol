@@ -1,0 +1,47 @@
+[
+    {
+        "nftQuality": "0",
+        "babyQualityProbability1": "[100,0,0,0,0]",
+        "babyQualityProbability2": "[80,0,0,0,0]",
+        "babyQualityProbability3": "[50,0,0,0,0]",
+        "babyQualityProbability4": "[0,0,0,0,0]",
+        "babyQualityProbability5": "[0,0,0,0,0]",
+        "babyQualityProbability6": "[0,0,0,0,0]"
+    },
+    {
+        "nftQuality": "1",
+        "babyQualityProbability1": "[85,15,0,0,0]",
+        "babyQualityProbability2": "[60,35,5,0,0]",
+        "babyQualityProbability3": "[60,35,5,0,0]",
+        "babyQualityProbability4": "[60,35,5,0,0]",
+        "babyQualityProbability5": "[60,35,5,0,0]",
+        "babyQualityProbability6": "[0,100,0,0,0]"
+    },
+    {
+        "nftQuality": "2",
+        "babyQualityProbability1": "[0,100,0,0,0]",
+        "babyQualityProbability2": "[0,83,15,2,0]",
+        "babyQualityProbability3": "[0,83,15,2,0]",
+        "babyQualityProbability4": "[0,83,15,2,0]",
+        "babyQualityProbability5": "[0,83,15,2,0]",
+        "babyQualityProbability6": "[0,40,55,5,0]"
+    },
+    {
+        "nftQuality": "3",
+        "babyQualityProbability1": "[0,80,20,0,0]",
+        "babyQualityProbability2": "[0,38,60,2,0]",
+        "babyQualityProbability3": "[0,38,60,2,0]",
+        "babyQualityProbability4": "[0,38,60,2,0]",
+        "babyQualityProbability5": "[0,38,60,2,0]",
+        "babyQualityProbability6": "[0,20,75,5,0]"
+    },
+    {
+        "nftQuality": "4",
+        "babyQualityProbability1": "[0,50,50,0,0]",
+        "babyQualityProbability2": "[0,25,66,8,1]",
+        "babyQualityProbability3": "[0,25,66,8,1]",
+        "babyQualityProbability4": "[0,25,66,8,1]",
+        "babyQualityProbability5": "[0,25,66,8,1]",
+        "babyQualityProbability6": "[0,0,80,19,1]"
+    }
+]

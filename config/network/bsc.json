@@ -1,0 +1,81 @@
+{
+	"WBNBFeed": "0x0567F2323251f0Aab15c8dFb1967E4e8A7D42aeE",
+	"BUSDFeed": "0xcBb98864Ef56E9042e7d2efef76141f15731B82f",
+	"USDTFeed": "0xB97Ad0E74fa7d920791E90258A6E2085088b4320",
+	"CakeFeed": "0xB6064eD41d4f67e353768aA239cA86f4F73665a1",
+	"Deployer": "0x01Fc2E48BE145F351fEc1346bD1606406399dBfB",
+	"Team": "0x192E4A469084D5C3056fc622D05bb54c56fcfCc2",
+	"Marketing": "0x740af7Fbf3b0552a5B3165A2A3244171C8bB2D5D",
+	"Investors": "0x485ba1AC3D4Cd1bF7C3152F2719B7559583A5c98",
+	"Dao": "0xa36032CbBbe6BdCF3cBc3626c7dd20D088b7ace8",
+	"Rebase": "0xAE767A9b74549982D97408F9A833621CA727894E",
+	"RankRewardAccount": "0xC228E5630c91a2b1beAd914eD86f0d822c2B585f",
+	"Factory": {
+		"contractName": "PancakeFactory",
+		"address": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73"
+	},
+	"Router": {
+		"contractName": "PancakeRouter",
+		"address": "0x10ED43C718714eb63d5aA57B78B54704E256024E"
+	},
+	"CAKE": {
+		"contractName": "ERC20",
+		"address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82"
+	},
+	"WBNB": {
+		"contractName": "ERC20",
+		"address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+	},
+	"BUSD": {
+		"contractName": "ERC20",
+		"address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+	},
+	"USDT": {
+		"contractName": "ERC20",
+		"address": "0x55d398326f99059fF775485246999027B3197955"
+	},
+	"Dashboard": {
+		"contractName": "Dashboard",
+		"address": "0x34DfE023f7CdF911ed312eD3eB17c15c40215d4d"
+	},
+	"WNativeRelayer": {
+		"contractName": "WNativeRelayer",
+		"address": "0xd3f9c5ee19bD834b787899Ed71039611B80078B8"
+	},
+	"PriceCalculator": {
+		"contractName": "PriceCalculator",
+		"address": "0x71504a68f3F5646378b9F298dc74dAb8b843286A"
+	},
+	"RandomSeeds": {
+		"contractName": "RandomSeeds",
+		"address": "0xaB4963e06E44F9c5129879623792679FC4a71F54"
+	},
+	"WoofConfig": {
+		"contractName": "WoofConfig",
+		"address": "0x385492d131b0cbA7F078A83f1f5295315fE4d8dd"
+	},
+	"WoofRandom": {
+		"contractName": "WoofRandom",
+		"address": "0x8129D14D11B19e6c02216161cC2cf67Df34D9c7c"
+	},
+	"WoofTraits": {
+		"contractName": "WoofTraits",
+		"address": "0xcdfE1E09fA32d41fD45D05d238a93B5dd349F727"
+	},
+	"Woof": {
+		"contractName": "Woof",
+		"address": "0xd87086554c1043cf0102dD1707D6C83C1b018cd3"
+	},
+	"Paw": {
+		"contractName": "Paw",
+		"address": "0xd11Ac50113d37207E2192032d5f77DE82a3E97a0"
+	},
+	"Gem": {
+		"contractName": "Gem",
+		"address": "0xF6270649AE604C4E952768cfcf4921Bfb7856675"
+	},
+	"GemMintHelper": {
+		"contractName": "GemMintHelper",
+		"address": "0xe85dbE9D912D3613f06a3D6c8B77B2fd40226932"
+	}
+}

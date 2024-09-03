@@ -1,0 +1,22 @@
+[
+    {
+        "babyQuality": "0",
+        "qualityMintProbability": "[950,1000,0,0,0]"
+    },
+    {
+        "babyQuality": "1",
+        "qualityMintProbability": "[640,990,1000,0,0]"
+    },
+    {
+        "babyQuality": "2",
+        "qualityMintProbability": "[550,840,990,1000,0]"
+    },
+    {
+        "babyQuality": "3",
+        "qualityMintProbability": "[100,600,895,995,1000]"
+    },
+    {
+        "babyQuality": "4",
+        "qualityMintProbability": "[0,200,740,990,1000]"
+    }
+]

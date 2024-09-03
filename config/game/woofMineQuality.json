@@ -1,0 +1,27 @@
+[
+    {
+        "quality": "0",
+        "pawOutputBuf": "1",
+        "gemOutputBuf": "1"
+    },
+    {
+        "quality": "1",
+        "pawOutputBuf": "2",
+        "gemOutputBuf": "1.25"
+    },
+    {
+        "quality": "2",
+        "pawOutputBuf": "2",
+        "gemOutputBuf": "1.5"
+    },
+    {
+        "quality": "3",
+        "pawOutputBuf": "3",
+        "gemOutputBuf": "1.75"
+    },
+    {
+        "quality": "4",
+        "pawOutputBuf": "3",
+        "gemOutputBuf": "2.75"
+    }
+]

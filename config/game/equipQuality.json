@@ -1,0 +1,42 @@
+[
+    {
+        "quality": "0",
+        "costToken": "1",
+        "cost": "0",
+        "nftCost": "[1,0,0,0,0]",
+        "nftRequiredLevel": "[5,0,0,0,0]",
+        "successProbability": "90"
+    },
+    {
+        "quality": "1",
+        "costToken": "1",
+        "cost": "0",
+        "nftCost": "[0,1,0,0,0]",
+        "nftRequiredLevel": "[0,1,0,0,0]",
+        "successProbability": "80"
+    },
+    {
+        "quality": "2",
+        "costToken": "1",
+        "cost": "0",
+        "nftCost": "[0,0,1,0,0]",
+        "nftRequiredLevel": "[0,0,1,0,0]",
+        "successProbability": "70"
+    },
+    {
+        "quality": "3",
+        "costToken": "1",
+        "cost": "0",
+        "nftCost": "[0,0,0,1,0]",
+        "nftRequiredLevel": "[0,0,0,1,0]",
+        "successProbability": "60"
+    },
+    {
+        "quality": "4",
+        "costToken": "0",
+        "cost": "0",
+        "nftCost": "[0,0,0,0,0]",
+        "nftRequiredLevel": "[0,0,0,0,0]",
+        "successProbability": "0"
+    }
+]

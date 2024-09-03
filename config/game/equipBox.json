@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "type": "0",
+        "name": "Mystery Weapon Box",
+        "des": "Get a random weapon upon opening",
+        "payToken": "1",
+        "price": "80",
+        "dailyLimit": "100"
+    },
+    {
+        "id": "2",
+        "type": "1",
+        "name": "Mystery Armour Box",
+        "des": "Get a random defense equipment upon opening",
+        "payToken": "1",
+        "price": "100",
+        "dailyLimit": "100"
+    },
+    {
+        "id": "3",
+        "type": "2",
+        "name": "Mystery Accessory Box",
+        "des": "Get a random accessory upon opening",
+        "payToken": "1",
+        "price": "120",
+        "dailyLimit": "100"
+    }
+]

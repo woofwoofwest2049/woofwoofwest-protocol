@@ -1,0 +1,14 @@
+{
+    "minerPerPowerOutputOfDay": "0.5",
+    "hunterPerPowerOutputOfDay": "0.4",
+    "minerStaminaRecoveryPerHour": "5",
+    "banditStaminaRecoveryPerHour": "2",
+    "hunterStaminaRecoveryPerHour": "2",
+    "wantedBanditCostStamina": "20",
+    "freeBanditCostStamina": "20",
+    "claimBanditPayForCostStamina": "0",
+    "lootPercent": ["33", "25", "20"],
+    "perPowerMaxClaimPawAmount": "3",
+    "perPowerMaxClaimGemAmount": "0.01",
+    "maxWantedCountOfBandit": "20"
+}

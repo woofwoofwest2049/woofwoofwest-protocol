@@ -1,0 +1,60 @@
+{
+  "name": "woofwoofwest",
+  "version": "1.0.0",
+  "description": "Smart Contracts for woofwoofwest gamefi",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unusdao-finance/woofwoofwest-protocol.git"
+  },
+  "keywords": [
+    "Woof",
+    "WoofWoofWest",
+    "protocol",
+    "finance",
+    "solidity",
+    "gamefi",
+    "woofwoofwest"
+  ],
+  "author": "Hunter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unusdao-finance/woofwoofwest-protocol.git/issues"
+  },
+  "homepage": "https://github.com/unusdao-finance/woofwoofwest-protocol.git#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^2.1.4",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/hardhat-upgrades": "^1.8.2",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.3.0",
+    "ethers": "^5.1.3",
+    "hardhat": "^2.2.0",
+    "hardhat-abi-exporter": "^2.2.1",
+    "prettier": "^2.3.2",
+    "prettier-plugin-solidity": "^1.0.0-beta.17",
+    "solhint": "^3.3.6",
+    "solhint-plugin-prettier": "0.0.5"
+  },
+  "dependencies": {
+    "@gnosis.pm/mock-contract": "^4.0.0",
+    "@gnosis.pm/safe-core-sdk": "1.0.0",
+    "@openzeppelin/contracts": "4.0.0-rc.0",
+    "@openzeppelin/contracts-upgradeable": "4.0.0-rc.0",
+    "apollo-boost": "^0.4.9",
+    "bip39": "^3.0.4",
+    "bnc-onboard": "^1.34.1",
+    "bnc-sdk": "^3.5.0",
+    "ethereumjs-util": "^7.1.4",
+    "ethereumjs-wallet": "^1.0.2",
+    "graphql": "^16.5.0",
+    "hardhat-contract-sizer": "^2.0.3",
+    "web3": "^1.7.1"
+  }
+}

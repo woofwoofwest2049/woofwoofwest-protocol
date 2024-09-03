@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "name": "Desert",
+        "des": "Hot, barren, dangerous yet full of surprises",
+        "minQuality": "0",
+        "duration": "[8,8,8,8,8,8,8,8,6,6,6,6,6,6,4,4,4,4,4,4]",
+        "costToken": "0",
+        "cost": "[290,870,5160]",
+        "staminaCost": "20",
+        "recommendPower": "[260,600,2700]"
+    },
+    {
+        "id": "2",
+        "name": "Forest",
+        "des": "Majestic, shadowy and waiting to be explored",
+        "minQuality": "2",
+        "duration": "[8,8,8,8,8,8,8,8,6,6,6,6,6,6,4,4,4,4,4,4]",
+        "costToken": "0",
+        "cost": "[550,1560,7670]",
+        "staminaCost": "30",
+        "recommendPower": "[450,1100,3900]"
+    },
+    {
+        "id": "3",
+        "name": "Unknown Area",
+        "des": "Dark, mysterious and foreboding area",
+        "minQuality": "3",
+        "duration": "[8,8,8,8,8,8,8,8,6,6,6,6,6,6,4,4,4,4,4,4]",
+        "costToken": "0",
+        "cost": "[1300,4120,21560]",
+        "staminaCost": "40",
+        "recommendPower": "[1200,3000,8000]"
+    }
+]

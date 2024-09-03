@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "type": "0",
+        "name": "Roll-volver",
+        "des": "Cowboys' conventional weapon, suitable for fast shooting, with stable Damage and average Hit Rate.",
+        "mintProbability": "40"
+    },
+    {
+        "id": "2",
+        "type": "0",
+        "name": "Ruff Rifle",
+        "des": "Long-range strike weapon, suitable for accurate shooting, moderate Damage and high Hit Rate.",
+        "mintProbability": "30"
+    },
+    {
+        "id": "3",
+        "type": "0",
+        "name": "Double Ruff",
+        "des": "Powerful explosive weapon with high Damage and low Hit Rate.",
+        "mintProbability": "30"
+    },
+    {
+        "id": "4",
+        "type": "1",
+        "name": "Pawfect Hat",
+        "des": "A fashionable hat that can protect against the wind and rain.",
+        "mintProbability": "40"
+    },
+    {
+        "id": "5",
+        "type": "1",
+        "name": "Furrward Boots",
+        "des": "Trendy and durable boots suitable for outdoor adventure. ",
+        "mintProbability": "30"
+    },
+    {
+        "id": "6",
+        "type": "1",
+        "name": "Pawsh Cloak",
+        "des": "Weatherproof clothes which says a lot about the wearer\u2019s fashion sense. ",
+        "mintProbability": "30"
+    },
+    {
+        "id": "7",
+        "type": "2",
+        "name": "Pawsome Cigar",
+        "des": "Highly popular among the early adventurers for its refreshing effect.",
+        "mintProbability": "40"
+    },
+    {
+        "id": "8",
+        "type": "2",
+        "name": "Devil's Claw",
+        "des": "Good for self-defense or sneak attack, can also be used as a throwing weapon.",
+        "mintProbability": "30"
+    },
+    {
+        "id": "9",
+        "type": "2",
+        "name": "Pawlice Badge",
+        "des": "An object helps the wearer to gain people\u2019s trust easily. ",
+        "mintProbability": "30"
+    }
+]

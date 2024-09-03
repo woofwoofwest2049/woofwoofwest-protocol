@@ -1,0 +1,422 @@
+[
+    {
+        "id": "1",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Chance",
+        "des": "Ambitious, motivated, might be impatient and arrogant occasionally",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "2",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Forrest",
+        "des": "Generous, patient and would do anything for the people he loves",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "3",
+        "type": "0",
+        "gender": "1",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Coco",
+        "des": "Curious, optimistic and interested in every moment of life",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "4",
+        "type": "0",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Milo",
+        "des": "A ball of enthusiasm, spreading joy and humor wherever he rolls",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "5",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Oakley",
+        "des": "Impatient and self-absorbed, but also smart as hell and grumpy sometimes",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "6",
+        "type": "0",
+        "gender": "1",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Minnie",
+        "des": "A small creature with a big heart. Warm, naive and cuddly",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "7",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Charlie",
+        "des": "Adorable, compassionate, and always seems to be a beacon of hope and positivity",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "8",
+        "type": "0",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Ginger",
+        "des": "She is both tough and soft. She knows her worth and won't allow anyone to jeopardize it",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "9",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Murphy",
+        "des": "Tolerant, easy-going, and crack good jokes now and then",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "10",
+        "type": "0",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Eloise",
+        "des": "One tough cookie. Self-assured, adventurous and moral",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "11",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Marley",
+        "des": "A good, honest hardworking guy who always gets the job done",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "12",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Sam",
+        "des": "He is a strong hug at the end of a long day. He is a rock for those who needs him most",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "13",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Frank",
+        "des": "Hilarious and endearing. Never a dull moment with him around",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "14",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Jackson",
+        "des": "Everything about him suggests valor and power and a firm handshake",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "15",
+        "type": "0",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Clara",
+        "des": "She has a lot of personality packed into a small exterior",
+        "mintProbability": "6.45"
+    },
+    {
+        "id": "16",
+        "type": "0",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Toby",
+        "des": "Abrasive, mean on the outside but you need to look beyond the surface",
+        "mintProbability": "1.625"
+    },
+    {
+        "id": "17",
+        "type": "0",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Hollis",
+        "des": "Sweet and kind-hearted. Protective towards people he cares about",
+        "mintProbability": "1.625"
+    },
+    {
+        "id": "18",
+        "type": "1",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Billy",
+        "des": "Audacious, cruel. Not someone you want to mess with",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "19",
+        "type": "1",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Hugo",
+        "des": "Selfish, greedy, and entitled. He has secrets that no one will ever know",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "20",
+        "type": "1",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Lola",
+        "des": "Tough like a shell. Her cruelty knows no boundaries",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "21",
+        "type": "1",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Max",
+        "des": "Mega control freak who needs to have everything his way",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "22",
+        "type": "1",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Loki",
+        "des": "Tough, hostile and would shoot someone just for the fun of it",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "23",
+        "type": "1",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Zane",
+        "des": "A master manipulator. The kind of guy who would wait until your back was turned to shoot you",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "24",
+        "type": "1",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Bob",
+        "des": "Powerful, beefy. The kind who carries weight like a weapon, not a liability",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "25",
+        "type": "1",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Nikki",
+        "des": "Ambivalent about morality but sure about what she wants and doesn\u2019t want",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "26",
+        "type": "1",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Sawyer",
+        "des": "An artist in his own field. Know how to get what he wants before anyone even notice",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "27",
+        "type": "1",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Rocky",
+        "des": "A selfish, manipulative guy who can turn on someone in a heartbeat",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "28",
+        "type": "1",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Rio",
+        "des": "Murderous, morose and probably insane. A killing machine with zero conscience",
+        "mintProbability": "2.4"
+    },
+    {
+        "id": "29",
+        "type": "1",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Finn",
+        "des": "Ruthless, creative, and thinks many moves ahead of other criminals",
+        "mintProbability": "2.4"
+    },
+    {
+        "id": "30",
+        "type": "2",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Taika",
+        "des": "Dutiful, stable, astute. Very hard to make him laugh",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "31",
+        "type": "2",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Sky",
+        "des": "A badass who tells it like it is and never apologizes for who she is",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "32",
+        "type": "2",
+        "gender": "0",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Magnus",
+        "des": "The gladiator of all gladiators. He doesn\u2019t run from crisis, but toward it",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "33",
+        "type": "2",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Cooper",
+        "des": "Someone to be dominated by, or to fight; never to patronize or pity",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "34",
+        "type": "2",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Arlo",
+        "des": "Accountable to virtually no one. He has his own sense of pride and duty",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "35",
+        "type": "2",
+        "gender": "1",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Hazel",
+        "des": "Never showy or violent, but that never stopped her from intimidating the bad guys",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "36",
+        "type": "2",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Kira",
+        "des": "Always ready to break the rules in order to defend what she believes in",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "37",
+        "type": "2",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Estella",
+        "des": "Tense, sweaty, and was literally born to fight",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "38",
+        "type": "2",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Oona",
+        "des": "All sweet and smooth on the outside with a tough core inside",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "39",
+        "type": "2",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Wells",
+        "des": "Fearless and unshakable, never buckle no matter how rough things are",
+        "mintProbability": "9.52"
+    },
+    {
+        "id": "40",
+        "type": "2",
+        "gender": "0",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Oscar",
+        "des": "Possesses the strong will and resilience needed to make impossible choices",
+        "mintProbability": "2.4"
+    },
+    {
+        "id": "41",
+        "type": "2",
+        "gender": "1",
+        "race": "1",
+        "basicPower": "100",
+        "name": "Jasper",
+        "des": "Confident, capable, and just impulsive enough to get himself into trouble sometimes",
+        "mintProbability": "2.4"
+    },
+    {
+        "id": "42",
+        "type": "1",
+        "gender": "1",
+        "race": "0",
+        "basicPower": "100",
+        "name": "Layla",
+        "des": "Her ability to be dangerous and sweet at any given moment is not easily forgotten",
+        "mintProbability": "2.4"
+    }
+]

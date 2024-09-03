@@ -1,0 +1,162 @@
+[
+    {
+        "level": "1",
+        "staminaCost": "10",
+        "countdown": "14400",
+        "maxSlaveCount": "2",
+        "percentOfPowerBuf": "2",
+        "protectPeriod": "8"
+    },
+    {
+        "level": "2",
+        "staminaCost": "10",
+        "countdown": "14400",
+        "maxSlaveCount": "2",
+        "percentOfPowerBuf": "2",
+        "protectPeriod": "8"
+    },
+    {
+        "level": "3",
+        "staminaCost": "10",
+        "countdown": "14400",
+        "maxSlaveCount": "2",
+        "percentOfPowerBuf": "2",
+        "protectPeriod": "8"
+    },
+    {
+        "level": "4",
+        "staminaCost": "10",
+        "countdown": "14400",
+        "maxSlaveCount": "2",
+        "percentOfPowerBuf": "2",
+        "protectPeriod": "8"
+    },
+    {
+        "level": "5",
+        "staminaCost": "10",
+        "countdown": "14400",
+        "maxSlaveCount": "4",
+        "percentOfPowerBuf": "8",
+        "protectPeriod": "12"
+    },
+    {
+        "level": "6",
+        "staminaCost": "15",
+        "countdown": "7200",
+        "maxSlaveCount": "4",
+        "percentOfPowerBuf": "8",
+        "protectPeriod": "12"
+    },
+    {
+        "level": "7",
+        "staminaCost": "15",
+        "countdown": "7200",
+        "maxSlaveCount": "4",
+        "percentOfPowerBuf": "8",
+        "protectPeriod": "12"
+    },
+    {
+        "level": "8",
+        "staminaCost": "15",
+        "countdown": "7200",
+        "maxSlaveCount": "4",
+        "percentOfPowerBuf": "8",
+        "protectPeriod": "12"
+    },
+    {
+        "level": "9",
+        "staminaCost": "20",
+        "countdown": "7200",
+        "maxSlaveCount": "8",
+        "percentOfPowerBuf": "16",
+        "protectPeriod": "16"
+    },
+    {
+        "level": "10",
+        "staminaCost": "20",
+        "countdown": "7200",
+        "maxSlaveCount": "8",
+        "percentOfPowerBuf": "16",
+        "protectPeriod": "16"
+    },
+    {
+        "level": "11",
+        "staminaCost": "20",
+        "countdown": "3600",
+        "maxSlaveCount": "8",
+        "percentOfPowerBuf": "16",
+        "protectPeriod": "16"
+    },
+    {
+        "level": "12",
+        "staminaCost": "20",
+        "countdown": "3600",
+        "maxSlaveCount": "8",
+        "percentOfPowerBuf": "16",
+        "protectPeriod": "16"
+    },
+    {
+        "level": "13",
+        "staminaCost": "25",
+        "countdown": "3600",
+        "maxSlaveCount": "12",
+        "percentOfPowerBuf": "20",
+        "protectPeriod": "20"
+    },
+    {
+        "level": "14",
+        "staminaCost": "25",
+        "countdown": "3600",
+        "maxSlaveCount": "12",
+        "percentOfPowerBuf": "20",
+        "protectPeriod": "20"
+    },
+    {
+        "level": "15",
+        "staminaCost": "25",
+        "countdown": "3600",
+        "maxSlaveCount": "12",
+        "percentOfPowerBuf": "20",
+        "protectPeriod": "20"
+    },
+    {
+        "level": "16",
+        "staminaCost": "25",
+        "countdown": "1800",
+        "maxSlaveCount": "12",
+        "percentOfPowerBuf": "20",
+        "protectPeriod": "20"
+    },
+    {
+        "level": "17",
+        "staminaCost": "30",
+        "countdown": "1800",
+        "maxSlaveCount": "16",
+        "percentOfPowerBuf": "30",
+        "protectPeriod": "24"
+    },
+    {
+        "level": "18",
+        "staminaCost": "30",
+        "countdown": "1800",
+        "maxSlaveCount": "16",
+        "percentOfPowerBuf": "30",
+        "protectPeriod": "24"
+    },
+    {
+        "level": "19",
+        "staminaCost": "30",
+        "countdown": "1800",
+        "maxSlaveCount": "16",
+        "percentOfPowerBuf": "30",
+        "protectPeriod": "24"
+    },
+    {
+        "level": "20",
+        "staminaCost": "30",
+        "countdown": "1800",
+        "maxSlaveCount": "16",
+        "percentOfPowerBuf": "30",
+        "protectPeriod": "24"
+    }
+]

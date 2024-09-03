@@ -1,0 +1,42 @@
+[
+    {
+        "quality": "0",
+        "basicPowerBuf": "1",
+        "dynamicPowerBuf": "1",
+        "battleBuf": "1",
+        "mintProbability": "64",
+        "maxLevelCap": "8"
+    },
+    {
+        "quality": "1",
+        "basicPowerBuf": "1.1",
+        "dynamicPowerBuf": "1.4",
+        "battleBuf": "1.4",
+        "mintProbability": "25",
+        "maxLevelCap": "12"
+    },
+    {
+        "quality": "2",
+        "basicPowerBuf": "1.3",
+        "dynamicPowerBuf": "2",
+        "battleBuf": "2",
+        "mintProbability": "8",
+        "maxLevelCap": "20"
+    },
+    {
+        "quality": "3",
+        "basicPowerBuf": "1.5",
+        "dynamicPowerBuf": "2.4",
+        "battleBuf": "2.4",
+        "mintProbability": "2.5",
+        "maxLevelCap": "20"
+    },
+    {
+        "quality": "4",
+        "basicPowerBuf": "1.8",
+        "dynamicPowerBuf": "3",
+        "battleBuf": "3",
+        "mintProbability": "0.5",
+        "maxLevelCap": "20"
+    }
+]
